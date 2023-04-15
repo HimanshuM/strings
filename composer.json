@@ -1,0 +1,18 @@
+{
+    "name": "himanshu-m/strings",
+    "license": "MIT",
+    "keywords": [
+        "string",
+        "object-oriented string"
+    ],
+    "description": "Object-oriented strings in PHP",
+    "require": {
+        "php": ">=7.4",
+        "himanshu-m/arrays": "v0.0.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Strings\\": "src"
+        }
+    }
+}
